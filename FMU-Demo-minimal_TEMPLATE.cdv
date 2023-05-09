@@ -9,8 +9,8 @@
 @CPA=
 .\Sys\system.cpa; System
 
-
 @CPACSP=
+{CPAPATH}
 
 @CIP=
 
@@ -58,6 +58,7 @@
 @CKL=
 
 @CSP=
+{CSPPATH}
 
 @CUA=
 

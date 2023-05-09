@@ -1,94 +1,16 @@
-@@CARTS=CDV;05;00;CDV1680779652;06.04.23/13:14:12;Becker;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;
+@@CARTS=CDV;05;00;CDV1680779652;06.04.23/13:14:12;Becker;DE-KS-L-0035;C:\work\FMICrossCheck\FMU-Demo-minimal.cdv;
 @TIT="COR-LAP"
 @USR="cor"
 @SENDCIO=0
-@REV=06.04.23 13:14 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-06.04.23 13:04 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-06.04.23 13:04 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\MapleSim\2021.2\ControlledTemperature\ControlledTemperature.csp
-06.04.23 13:04 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\MapleSim\2021.2\ControlledTemperature\ControlledTemperature.cpa
-06.04.23 12:30 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-06.04.23 12:30 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\Test-FMUs\0.0.2\VanDerPol\VanDerPol.csp
-06.04.23 12:30 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\Test-FMUs\0.0.2\VanDerPol\VanDerPol.cpa
-05.04.23 10:48 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-05.04.23 10:47 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.csp
-05.04.23 10:47 [cor(Becker,DE-KS-L-0035)] + C:\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.cpa
-10.03.23 12:55 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-10.03.23 12:54 [cor(Becker,DE-KS-L-0035)] + C:\Users\Becker\Desktop\FMU\BouncingBall\bouncingBall.csp
-10.03.23 12:54 [cor(Becker,DE-KS-L-0035)] + C:\Users\Becker\Desktop\FMU\BouncingBall\bouncingBall.cpa
-10.03.23 12:54 [cor(Becker,DE-KS-L-0035)] - C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.cpa
-10.03.23 12:54 [cor(Becker,DE-KS-L-0035)] - C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.csp
-10.03.23 12:28 [cor(Becker,DE-KS-L-0035)] * C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-10.03.23 12:28 [cor(Becker,DE-KS-L-0035)] + C:\CAPE\Cape6.3.0\help\demos\simu\simu.csp
-10.03.23 12:28 [cor(Becker,DE-KS-L-0035)] + C:\CAPE\Cape6.3.0\help\demos\simu\CPC\64-bit\simu_template.cpa
-10.03.23 10:28 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-09.03.23 12:38 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-09.03.23 12:38 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 22:09 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 19:55 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 19:51 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 17:51 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 17:42 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-08.03.23 17:42 [cor(fwa,DE-KS-D-0025)] + C:\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.csp
-08.03.23 17:42 [cor(fwa,DE-KS-D-0025)] + C:\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.cpa
-07.03.23 10:04 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-07.03.23 10:04 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.csp
-07.03.23 10:04 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.cpa
-07.03.23 10:00 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-07.03.23 10:00 [cor(fwa,DE-KS-D-0025)] - ..\..\..\..\..\..\fmu_test\BouncingBall3\BouncingBall.cpa
-07.03.23 10:00 [cor(fwa,DE-KS-D-0025)] - ..\..\..\..\..\..\fmu_test\BouncingBall3\BouncingBall.csp
-07.03.23 09:14 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-07.03.23 09:14 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.csp
-07.03.23 09:14 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.cpa
-07.03.23 09:03 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-07.03.23 09:03 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.cpa
-07.03.23 09:03 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.csp
-06.03.23 16:33 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-06.03.23 16:32 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-03.03.23 09:40 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-03.03.23 09:40 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\AutFWD_test\Aut_FWD_test.csp
-03.03.23 09:40 [cor(fwa,DE-KS-D-0025)] + C:\Users\fwa\Documents\fmu_test\AutFWD_test\Aut_FWD_test.cpa
-01.03.23 17:03 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 17:03 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\AutFWD\Aut_FWD.cpa
-01.03.23 12:40 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:40 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\bouncingBall\bouncingBall.cpa
-01.03.23 12:22 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:22 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:17 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:17 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:17 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:17 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:16 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:16 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\AutFWD_test\Aut_FWD_test.cpa
-01.03.23 12:16 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 12:16 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 11:29 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 11:25 [cor(fwa,DE-KS-D-0025)] * C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
-01.03.23 11:25 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\BouncingBall3\BouncingBall.cpa
-01.03.23 11:24 [cor(fwa,DE-KS-D-0025)] - C:\Users\fwa\Documents\fmu_test\AutFWD_test\Aut_FWD_test.csp
+@REV=
+
 @DES=
 
 @CPA=
 .\Sys\system.cpa; System
-.\Sys\PstIosPar.cpa; System
-.\Sys\SysMotPar.cpa; System
-.\Sys\SysIosPar.cpa; System
-.\Sys\StaIosPar_PST-A.cpa; System
-.\Sys\StaIosPar_PST-G.cpa; System
-.\Mdl\FahrzeugEmulation\Dummy_8ADIO.cpa; System
-.\Sys\RDB.cpa
-..\..\..\..\..\..\..\Downloads\testGeneriert.cpa
-..\..\..\..\..\..\fmu_test\AutFWD_test\Aut_FWD_test.cpa
-..\..\..\..\..\..\..\..\..\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.cpa
-..\..\..\..\..\..\..\..\..\..\..\..\..\CAPE\Cape6.3.0\help\demos\simu\CPC\64-bit\simu_template.cpa
-..\..\..\..\..\..\..\..\..\..\FMU\BouncingBall\bouncingBall.cpa
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.cpa
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\Test-FMUs\0.0.2\VanDerPol\VanDerPol.cpa
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\MapleSim\2021.2\ControlledTemperature\ControlledTemperature.cpa
 
 @CPACSP=
-..\..\..\..\..\..\fmu_test\Mathematik\mathematik.cpa
-..\..\..\..\..\..\fmu_test\Sinuskurve\sinuskurve.cpa
-..\..\..\..\..\..\..\..\..\git\testoperation\NC-Testartefakte\Testfaelle\NC-902\Stair\Stair.cpa
+C:\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.cpa
 
 @CIP=
 
@@ -100,7 +22,6 @@
 .\Cfg\PC-HiL.cio
 
 @CHD=
-.\Cfg\CPC253_ixxat_2_x_IB200.chd
 
 @CCF=
 
@@ -135,51 +56,15 @@
 @CIG=
 
 @CKL=
-.\Mdl\Bnn\Kennlinien\BnnIin.ckl; System
-.\Mdl\Bnn\Kennlinien\KlemmMess.ckl; System
-.\Mdl\Bnn\Kennlinien\BnnUout.ckl; System
-.\Mdl\Bnn\Kennlinien\BnnUin.ckl; System
-.\Mdl\Bnn\Kennlinien\BnnImax.ckl; System
-.\Sys\Kennlinien\1zu1.ckl; System
 
 @CSP=
-..\..\..\..\..\..\fmu_test\Mathematik\mathematik.csp
-..\..\..\..\..\..\fmu_test\Sinuskurve\sinuskurve.csp
-..\..\..\..\..\..\..\..\..\git\testoperation\NC-Testartefakte\Testfaelle\NC-902\Stair\Stair.csp
-..\..\..\..\..\..\fmu_test\AutFWD_test\Aut_FWD_test.csp
-..\..\..\..\..\..\..\..\..\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.csp
-..\..\..\..\..\..\..\..\..\..\..\..\..\CAPE\Cape6.3.0\help\demos\simu\simu.csp
-..\..\..\..\..\..\..\..\..\..\FMU\BouncingBall\bouncingBall.csp
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.csp
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\Test-FMUs\0.0.2\VanDerPol\VanDerPol.csp
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\MapleSim\2021.2\ControlledTemperature\ControlledTemperature.csp
+C:\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.csp
 
 @CUA=
 
 @CDV=
 
 @HIST=21;
-00=fwa;23.09.22/09:36:01;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.02.00.00 ()
-01=fwa;06.03.23/16:32:48;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-02=fwa;06.03.23/16:33:00;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-03=fwa;07.03.23/09:03:30;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-04=fwa;07.03.23/09:14:35;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-05=fwa;07.03.23/10:00:51;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-06=fwa;07.03.23/10:04:31;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-07=fwa;08.03.23/17:42:39;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-08=fwa;08.03.23/17:51:44;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-09=fwa;08.03.23/19:51:16;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-10=fwa;08.03.23/19:55:07;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-11=fwa;08.03.23/22:09:48;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-12=fwa;09.03.23/12:38:23;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-13=fwa;09.03.23/12:38:29;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-14=fwa;10.03.23/10:28:42;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-15=Becker;10.03.23/12:28:54;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-16=Becker;10.03.23/12:55:07;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-17=Becker;05.04.23/10:48:09;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-18=Becker;06.04.23/12:30:20;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-19=Becker;06.04.23/13:04:53;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-20=Becker;06.04.23/13:14:12;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
 
 @END
 
@@ -187,46 +72,17 @@
 
 
 
-@@CARTS=WSP;05;00;WSP1680779652;06.04.23/13:14:12;Becker;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;
+@@CARTS=WSP;05;00;WSP1680779652;06.04.23/13:14:12;Becker;DE-KS-L-0035;C:\work\FMICrossCheck\FMU-Demo-minimal.cdv;
 
 
-@WSP=C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv
+@WSP=
 
 @DOC
-..\..\..\..\..\..\..\..\..\git\testoperation\NC-Testartefakte\Testfaelle\NC-902\Stair\Stair.cpa=1,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.csp=0,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\git\Reference-FMUs\out\build\WSL-GCC-Release\dist\Feedthrough.cpa=1,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\fmu_test\AutFWD_test\Aut_FWD_test.csp=0,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\..\FMU\BouncingBall\bouncingBall.csp=0,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\..\..\..\..\CAPE\Cape6.3.0\help\demos\simu\simu.csp=0,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\AMESim\15\ClassEAmplifier\ClassEAmplifier.csp=0,1,-1,-1,3,31,3,31,1099,610
-..\..\..\..\..\..\..\..\..\..\..\..\..\work\FMICrossCheck\fmus\2.0\cs\linux64\MapleSim\2021.2\ControlledTemperature\ControlledTemperature.csp=0,1,-1,-1,-1,-1,3,31,1099,610
 
 @EXP=2;1;1;1;2;2;2;2;2;1;2;2;1;1;1;2;2;2;2;1;2;2;2;1;1;
 
 @NOTA=
 
-@HIST=21;
-00=fwa;23.09.22/09:36:01;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.02.00.00 ()
-01=fwa;06.03.23/16:32:48;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-02=fwa;06.03.23/16:33:00;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-03=fwa;07.03.23/09:03:30;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-04=fwa;07.03.23/09:14:35;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-05=fwa;07.03.23/10:00:51;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-06=fwa;07.03.23/10:04:31;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-07=fwa;08.03.23/17:42:39;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-08=fwa;08.03.23/17:51:44;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-09=fwa;08.03.23/19:51:16;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-10=fwa;08.03.23/19:55:07;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-11=fwa;08.03.23/22:09:48;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-12=fwa;09.03.23/12:38:23;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-13=fwa;09.03.23/12:38:29;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-14=fwa;10.03.23/10:28:42;DE-KS-D-0025;C:\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-15=Becker;10.03.23/12:28:54;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-16=Becker;10.03.23/12:55:07;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-17=Becker;05.04.23/10:48:09;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-18=Becker;06.04.23/12:30:20;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-19=Becker;06.04.23/13:04:53;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
-20=Becker;06.04.23/13:14:12;DE-KS-L-0035;C:\Users\Becker\Desktop\Demo\Users\fwa\Documents\Arbetitsbereich_test\NovaCarts-Demo\NovaCarts-Demo\Datenbasen\CPC\1400ccm_MED_AG_ESP\FMU-Demo-minimal.cdv;06.03.00.00 ()
+@HIST=
 
 @END
